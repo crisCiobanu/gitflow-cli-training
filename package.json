@@ -1,0 +1,11 @@
+{
+  "name": "gitflow-cli-training",
+  "version": "0.2.0",
+  "description": "Git Flow CLI Training Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cciobanu",
+  "license": "ISC"
+}
